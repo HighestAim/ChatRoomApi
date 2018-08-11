@@ -1,7 +1,7 @@
 # ChatRoomApi
 
 Requires: 
-1) .Net Core 2.1.2 SDK and Runtime
+1) .Net Core 2.1.2 SDK and Runtime.
  notes: url -> https://microsoft.com/net/download/dotnet-core/2.1
 2) Sql Server 2017
 
