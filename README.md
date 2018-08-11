@@ -2,7 +2,7 @@
 
 Requires: 
 1) .Net Core 2.1.2 SDK and Runtime.
- notes: url -> https://microsoft.com/net/download/dotnet-core/2.1
+ Notes: url -> https://microsoft.com/net/download/dotnet-core/2.1
 2) Sql Server 2017
 
 Notes: Set appsettings.json file "ConnectionString" section "Data Source" property value your PC name.
